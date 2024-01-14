@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utku Metin
-- 👀 I’m interested in AI's, machine learning and data.
+- 👀 I’m interested in AIs, machine learning and data.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: utkumtin@gmail.com
 
