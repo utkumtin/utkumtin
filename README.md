@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utku Metin
-- 👀 I’m interested in AIs, machine learning and data.
-- 🌱 I’m currently learning Python.
+- 👀 I teach machines to think, and in return, they teach me patience.
+- 🌱 Always fine-tuning-both my models and myself.
 - 📫 How to reach me: utkumtin@gmail.com
 
 <!---
